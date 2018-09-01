@@ -1,5 +1,7 @@
 # timeshift_gpx
 
+Inspired by https://gis.stackexchange.com/a/199942
+
 Useful for grouping multiple rides in Strava to enable comparison with Strava's Flyby tool.
 
 Setup (tested with python 2.7):
